@@ -1,3 +1,5 @@
+<div align="center"><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/java-orange?logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C-yellow?logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/CSharp-blue?logo=CSharp&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-orange?logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-HTML?logo=HTML&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-red?logo=HTML&logoColor=white"/><div>
+
 ### CHyunbeen's Repositioy 👋
 
 <!--
